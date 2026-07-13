@@ -76,9 +76,3 @@ NanoVector_OpenSource/
 │   └── benchmark.py
 └── tests/               # 单元测试保证工程质量
 ```
-
-## 🤝 参与贡献
-欢迎提交 Pull Request 或者 Issue 探讨！特别是关于 HNSW（可导航小世界图谱）算法的 Python 底层实现，期待您的参与！
-
-## 📄 许可证
-本项目采用 MIT 许可证，详情请见 LICENSE 文件。
